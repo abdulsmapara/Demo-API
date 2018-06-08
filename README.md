@@ -1,21 +1,21 @@
 # Demo-API
-This is a demo rest api created using Node.js
+This is a demo rest api created using Node.js<br />
 <b>What does it do?</b><br />
-<li>
-  <ul>Uses GET method of http protocol to deliver contents of MySql database in JSON format.<br />Example:<code>localhost:8000/Tasks/1</code> fetches the row with id=1 and displays the output in the browser(as this is a demo) in JSON format.</ul>
+<ul>
+  <li>Uses GET method of http protocol to deliver contents of MySql database in JSON format.<br />Example:<code>localhost:8000/Tasks/1</code> fetches the row with id=1 and displays the output in the browser(as this is a demo) in JSON format.</>
 </li>
 <b>Tools and Technologies used</b>
-<li>
-  <ul>
+<ul>
+  <li>
     Node.js
-      <li>
-         <ul>
+      <ul>
+         <li>
            Express framework
-        </ul>
-      </li>
-  </ul>
-  <ul>
+        </li>
+      </ul>
+  </li>
+  <li>
     MySql database
-  </ul> 
-</li>
+  </li> 
+</ul>
 <footer>ABDUL SATTAR MAPARA</footer>
