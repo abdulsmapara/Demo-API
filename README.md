@@ -15,7 +15,6 @@ This is a demo rest api created using Node.js<br />
       </ul>
   </li>
   <li>
-    MySql database
+    MySql Database
   </li> 
 </ul>
-<footer>ABDUL SATTAR MAPARA</footer>
